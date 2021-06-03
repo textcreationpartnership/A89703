@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>No pamphlet, bvt a detestation against all such pamphlets as are printed, concerning the Irish rebellion, plainely demonstrating the falshood of them. With, a short breviary of some passages lately happening betweene a housekeeper and some of the rebels; with the death of the gentleman of the house, and the chiefe of the rebels. Being a true copy of a letter sent to a merchant of the City of London.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89703</idno><idno type="EEBO-CITATION">99859018</idno>
+  <idno type="VID">111079</idno>
+  <idno type="EEBO-PROQUEST">2240884002</idno>
+  
+            <idno type="STC">Wing N1184</idno>
+            <idno type="STC">Thomason E134_3</idno>
+            <idno type="STC">ESTC R11399</idno>
+            <idno type="PROQUEST">99859018</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99859018e"/>
+            <note>(EEBO-TCP ; phase 2, no. A89703)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111079)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 24:E134[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>No pamphlet, bvt a detestation against all such pamphlets as are printed, concerning the Irish rebellion, plainely demonstrating the falshood of them. With, a short breviary of some passages lately happening betweene a housekeeper and some of the rebels; with the death of the gentleman of the house, and the chiefe of the rebels. Being a true copy of a letter sent to a merchant of the City of London.</title>
+               </titleStmt>
+               <extent>[6] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111079:1"/>
+            <pb facs="tcp:111079:1"/>
+            <p>NO PAMPHLET, BVT A DETESTATION Against all such PAMPHLETS As are Printed, Concerning the Irish Rebellion, Plainely demonstrating the falshood of them.</p>
+            <p>WITH, A short Breviary of some passages lately happening betweene a Housekeeper and some of the Rebels; With the death of the Gentleman of the House, and the chiefe of the Rebels.</p>
+            <p>Being a True Copy of a Letter sent to a Mer<g ref="char:EOLhyphen"/>chant of the City of London.</p>
+            <p>London, Printed, 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:111079:2"/>
+            <pb facs="tcp:111079:2"/>
+            <head>A Letter from Ireland.</head>
+            <p>THe many Fabulous Pamphlets that are set out concerning the Rebels in Ireland of their outrages and bloudy proceedings, hath caused me to send this to the Presse, that all may pcr<g ref="char:EOLhyphen"/>ceive the vanity of the Authors, who for a small gaine, will endeavour with opprobrious lines to a<g ref="char:EOLhyphen"/>buse God and Man. Nay they will not sticke to blur the faire velome of our great Senate with their blubberd writings; making credulous people to beleeve such things as are contrived from their Hellish braines, to proceed from that great Coun<g ref="char:EOLhyphen"/>cell: and to put a fairer glosse upon their forge<g ref="char:EOLhyphen"/>ries, they have sent out some of their foolish In<g ref="char:EOLhyphen"/>ventions under the Title of a Letter from a Di<g ref="char:EOLhyphen"/>vine to his Friend, or from Friend to Friend. It is confessed, That the Irish doe dayly rise up in Armes and their Companies increase; likewise they pillage Protestants Houses, and take away all manner of Cattell; but for murdering or ravi<g ref="char:EOLhyphen"/>shing (as is reported) it is more than we ever heard of in Ireland: onely one Gentleman lost his life after this manner. A Company of Rebels to the
+<pb facs="tcp:111079:3"/> number of one hundred and twenty or thereabouts, stole out of the woods in the Evening, and sur<g ref="char:EOLhyphen"/>rounded a Gentlemans house which stood alone farre from any Neighbours; the Master of the House having intelligence of it, caused his dores to be barricadoed, and his Servants to provide themselves with such Armes to defend themselves as the House afforded. The Rebels commandsd the Doores should be opened and that the Master of the House should bestow on them such vi<g ref="char:EOLhyphen"/>ctuals and drinke as was within and they would not offer violence to any one, but returne in peace to the places from whence they came. The Gen<g ref="char:EOLhyphen"/>tleman fearing the old saying to be true, <hi>Nulla fi<g ref="char:EOLhyphen"/>des cum inimico,</hi> there was no Faith to be given to an enemy, especially to such traiterous Rebels, would not trust to their protestations, but plaine<g ref="char:EOLhyphen"/>ly replied, that he would stand upon his defence, and would rather lose his life, then succour any that were the Kings Enemies, but would venter their lives to maintaine his dignity, and all that they sought, was tolleration for their Religion. All this protestation could not get them releife not beleife; Whereupon they discharged some short gunnes that they carried at the Window, and then tooke Ladders and thought to skale the House; which they easily begun, and had as easily finished, by reason they that were there within had no manner of Armes, but Clubs, and two or three
+<pb facs="tcp:111079:3"/> swords) which could not make much resistance. Therefore fearing the worst, they cryed out for mercy, and they would willingly give unto them what they demanded; and for confirmation there<g ref="char:EOLhyphen"/>of, if one of them would clime a Ladder to a Window where the Master of the house stood, and there sweare not to offer violence to Man or Woman, the dores should presently bee opened; which they condescended to, and sent up one <hi>Macdonnell,</hi> who was the chiefe amongst them; but he instead of receiving an oath, recei<g ref="char:EOLhyphen"/>ved a wound through the body with the Gentle<g ref="char:EOLhyphen"/>mans sword that stood in the Window, that he fel dead to the ground. Which when the Rebels per<g ref="char:EOLhyphen"/>ceived, their choller was so stirred, that they again discharged their Gunnes at the Windowes, and fell to skale the House; the miserable people within cryed out for mercy, bur were not harke<g ref="char:EOLhyphen"/>ned to; at length they broke up a Window, and some twenty of them got into the House; the fearefull Housekeepers runne all into holes to hide themselves, but were soone found out and all bound, save onely the Master of the House, who had conveived himselfe to a private Closet made in a Wall, when the dore was shut, it would de<g ref="char:EOLhyphen"/>ceive a skilfull Man to finde out; long search was made for him, but he could not be found, till one of his own servants, upon condition that his owne life should be saved, <hi>Judas</hi> like, delivered up his
+<pb facs="tcp:111079:4"/> Master, who presently was cut in pieces and cast out. Then they pillaged the House, loading them<g ref="char:EOLhyphen"/>selves with the richest Furniture the House affor<g ref="char:EOLhyphen"/>ded. Yet they killed none of the rest, but left them bound, and returned againe to the Woods. The next day, some strangers passing by and hea<g ref="char:EOLhyphen"/>ring the groanes and cries of those that were with<g ref="char:EOLhyphen"/>in came and unbound them; and now they be all at Dublin. The party that discovered his Master to the Rebels, was questioned before the Councell there, and found to be guilty of Petty-Treason, and therefore condemned to be hanged. The Re<g ref="char:EOLhyphen"/>bels are in number about twenty thousand or up<g ref="char:EOLhyphen"/>wards, but not halfe of them furnished with Armes, nor, I hooe, with hearts, to stand against the Lord or his Annointed.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:111079:4"/>
+         </div>
+      </body>
+   </text>
+</TEI>
